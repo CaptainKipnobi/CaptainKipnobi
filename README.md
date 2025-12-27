@@ -1,6 +1,5 @@
-## Hi there 👋
+## 👋 Hey, I’m Imad
 
-👋 Hey, I’m Imad
 🎨 Front-end developer who enjoys turning ideas into clean, interactive interfaces
 💻 Working mainly with JavaScript, HTML, and Tailwind CSS
 🎮 Gamer, tech nerd, and someone who genuinely enjoys learning how things work (and why they break)
