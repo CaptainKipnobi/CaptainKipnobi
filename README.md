@@ -4,7 +4,7 @@
 
 💻 Working mainly with JavaScript, HTML, and Tailwind CSS
 
-🎮 The Gamer, tech nerd, and someone who genuinely enjoys learning how things work (and why they break)
+🎮 **De** Gamer, tech nerd, and someone who genuinely enjoys learning how things work (and why they break)
 
 I like building projects with strong visuals, smooth UX, and logic that actually makes sense.
 Most of my learning happens by experimenting, failing fast, and refining until it feels right.
